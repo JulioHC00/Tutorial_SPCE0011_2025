@@ -1,12 +1,11 @@
 # Tutorial Session for SPCE 2023/2024: Exploring Solar Spectrum
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nawinnova/Tutorial_SPCE2024)
 
 ![image](https://github.com/nawinnova/Tutorial_SPCE2024/assets/40351889/1111ed5c-dbec-48fb-ad86-76000df03242)
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nawinnova/Tutorial_SPCE2024)
-
 This repository hosts data and code for the Solar Physics Course tutorial sessions at UCL, Academic Year 2023/2024. 
-Specifically aims to help students better understand the concept of spectroscopy and how we scientists can use this technique to ![image](https://github.com/nawinnova/Tutorial_SPCE2024/assets/40351889/be932562-9e98-486a-98f2-9778ea05305b)
+Specifically aims to help students better understand the concept of spectroscopy and how we scientists can use this technique to
 gain insights about the solar corona.
 
 To run these notebooks, simply click the "Open in Colab" banner. It will redirect you to Google Colab, which allows you to run Python without installing it on your computer. Once you are in Colab, feel free to edit or play around the code as much as you like. The original code won't be affected.
