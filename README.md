@@ -1,5 +1,7 @@
 # Tutorial Session for SPCE 2023/2024: Exploring Solar Spectrum
 
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fsolarb.mssl.ucl.ac.uk%2FSolarB%2Fnuggets%2Fnugget_2020sep.jsp&psig=AOvVaw2Bfmau6m-iN4lRB2qsifyQ&ust=1708766124677000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIDV54CQwYQDFQAAAAAdAAAAABAS![image](https://github.com/nawinnova/Tutorial_SPCE2024/assets/40351889/61354ef6-7869-43d0-b254-441c113237c1)
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nawinnova/Tutorial_SPCE2024)
 
 This repository hosts data and code for the Solar Physics Course tutorial sessions at UCL, Academic Year 2023/2024. 
@@ -10,9 +12,9 @@ To run these notebooks, simply click the "Open in Colab" banner. It will redirec
 Content
 - Loading and reading data from Hinode/EIS
 - Understanding spectral data
-- Plotting Intensity map, Doppler Velocity map, and Spectral profile at each pixel.
+- Plotting intensity map, Doppler velocity map, and spectral profile at each pixel.
 
-Check out the cool Python libraries
+Check out the cool Python libraries used in this project
 - sunpy (analysing any solar stuff): https://sunpy.org
 - EISPAC (analysing data from Hinode/EIS): https://eispac.readthedocs.io/en/latest/
 
