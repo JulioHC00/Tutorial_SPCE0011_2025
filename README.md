@@ -1,6 +1,6 @@
 # Tutorial Session for SPCE 2023/2024: Exploring Solar Spectrum
 
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fsolarb.mssl.ucl.ac.uk%2FSolarB%2Fnuggets%2Fnugget_2020sep.jsp&psig=AOvVaw2Bfmau6m-iN4lRB2qsifyQ&ust=1708766124677000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIDV54CQwYQDFQAAAAAdAAAAABAS![image](https://github.com/nawinnova/Tutorial_SPCE2024/assets/40351889/61354ef6-7869-43d0-b254-441c113237c1)
+![image](https://github.com/nawinnova/Tutorial_SPCE2024/assets/40351889/61354ef6-7869-43d0-b254-441c113237c1)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nawinnova/Tutorial_SPCE2024)
 
