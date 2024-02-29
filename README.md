@@ -1,5 +1,5 @@
 # Tutorial Session for SPCE 2023/2024: Exploring Solar Spectrum
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/nawinnova/Tutorial_SPCE2024/)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nawinnova/Tutorial_SPCE2024/)
 
 ![image](https://github.com/nawinnova/Tutorial_SPCE2024/assets/40351889/1111ed5c-dbec-48fb-ad86-76000df03242)
 
